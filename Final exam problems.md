@@ -2,7 +2,7 @@
 
 1. Answer following queations briefly.
    - $A \in \Real^{m\times n}$, $B \in \Real^{n\times p}$, $C \in \Real^{p\times q}$. How to compute $D = ABC$?
-   - $X$, $Y$ are $3\times 2$ matrix, $X^\top X = Y^\top Y = I_2$, what is the angle of these two spaces spaned by $X,Y$?
+   - $X$, $Y$ are $3\times 2$ matrices, $X^\top X = Y^\top Y = I_2$, what is the angle of these two spaces spaned by $X,Y$?
    - Campare **CGS, MGS, Givens, Householder** briefly when using them to compute QR factorization.
    - What symmetry eigenvalue mathods can not be applied to the non-symmetry case.
    - Forgot :)
